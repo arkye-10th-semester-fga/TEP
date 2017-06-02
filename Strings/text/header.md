@@ -1,0 +1,45 @@
+# Sumário
+
+1. Strings
+  1. Definições [1,2]
+  1. Strings Notáveis [2,3]
+    1. Strings de Fibonnaci [2]
+    1. Prefixos de Thue-Morse [2]
+    1. Palavras binárias Pn [2,3]
+    1. String de dígitos [3]
+    1. Strings de Bruijin [3]
+1. Representação de Strings
+  1. C [1,2]
+  1. C++ [2,3]
+  1. Python [3,4]
+  1. I/O [4,5]
+1. Algoritmos Elementares
+  1. Palíndromos [1]
+  1. Histograma [1,2]
+  1. Mapas, Filtros e Reduções [2~4]
+    1. Mapas [2,3]
+    1. Filtros [3,4]
+    1. Reduções [4]
+  1. Tabelas de substituição [4,5]
+  1. Tokenização [5~7]
+  1. Anagramas [7]
+  1. Expressões Regulares [8,9]
+1. Algoritmos de Busca
+  1. Busca Completa [1]
+  1. Algoritmo de Morris-Pratt [1~3]
+  1. Algoritmo de Knuth-Morris-Pratt [3,4]
+  1. Algoritmo de Karp-Rabin [4~7]
+  1. Z Function [7~10]
+    1. Versão Ingênua [7]
+    1. Versão Original [7~9]
+    1. Aplicação 1: Matching de Strings [9]
+    1. Aplicação 2: Matching de Strings com apenas um caractere de diferença [9,10]
+1. Árvores de Sufixos
+  1. Definições [1]
+  1. Tries [1~4]
+  1. Construção Online da Trie [4,5]
+  1. Suffix Tree [5]
+1. Programação Dinâmica
+  1. Edit Distance [1~4]
+  1. Maior Subsequência Comun [4~6]
+  1. Maior Subsequência Palíndroma [6,7]
